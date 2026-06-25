@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**kshitizz-08/kshitizz-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<h1 align="center">Hi 👋, I'm Kshitij Kalhapure</h1>
+<h1 align="center">Hi 👋, I'm Kshitij Kalhapure</h1>
 <h3 align="center">Computer Engineering Student | AI & Analytics | Full Stack Developer | Java Developer</h3>
 
 ---
@@ -78,11 +70,3 @@ Git • GitHub • VS Code • Eclipse
 💼 LinkedIn: https://www.linkedin.com/in/kshitij-kalhapure/
 
 🌐 Portfolio: https://portfolio-1-8psb.onrender.com/
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
